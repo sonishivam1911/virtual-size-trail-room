@@ -18,13 +18,9 @@ The **Virtual Trial Room** is a real-time application that uses computer vision 
 
 ## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
 
-2. **Install Dependencies**:
+
+ 1.**Install Dependencies**:
    Use the `requirements.txt` file to install all necessary packages.
    ```bash
    pip install -r requirements.txt
